@@ -16,8 +16,7 @@
 ***Educational Conssultant*** (_December 2024 – Present_)
 - Provide administrative works. Provide guidance. Develop plans. 
 
-
-### Tolkdanmark ApS, Translationn Team
+### Tolkdanmark ApS
 ***Freelance Interpretor*** (_Jan 2022 – Present_)
 - In-person Interpreting. Legal Document Translation. Clinical & Court Experience. Municipality experience.
   
