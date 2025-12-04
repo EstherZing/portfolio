@@ -4,6 +4,9 @@
 
 ## Education
 - Bachelor’s of Science
+- Masters's of Science
+
+
 
 ## Work Experience
 
