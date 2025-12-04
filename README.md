@@ -1,20 +1,14 @@
-# portfolio
+# Portfolio
 
 <!-- ADD LINKS? linkedin, email, -->
-
-## Education
-- Bachelor’s of Science
-- Masters's of Science
-
-## Work Experience
-
-## Projects
 
 ## Education
 - Master’s of Science, Human Centered Artificial Intelligence | Denmarks Technical University (_Graduated June 2023_)
     - Relevant Coursework: Project Management, Software Engineering, User Experience Engineering, Computational tools for data science, Introduction to machine learning and data mining, Social Graphs and Interactions, Social Data Analysis and Visualization. Personal data interaction course.
 - Bachelor’s of Science, Network Technology and IT | Denmarks Technical University (_Graduated June 2018_)
     - Relevant Coursework: Data Structures, Software Engineering, Introduction to programming and data processing. Introduction to mathematical statistics, 
+
+## Projects
 
 
 ## Work Experience
