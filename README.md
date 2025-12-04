@@ -10,7 +10,7 @@
 
 ## Work Experience
 ### Solvita A/S 
-***Educational Conssultant*** (_December 2024 – Present_)
+***Educational Consultant*** (_December 2024 – Present_)
 - Provide administrative works. Provide guidance. Develop plans. 
 
 
