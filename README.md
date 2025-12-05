@@ -39,9 +39,9 @@ Data analysis of exploring news headlines data from the guardian news page. Data
      <td>Words Cloud for News headlines in 2018i</td>
   </tr>
   <tr>
-    <td><img src="Subcategories.png" width=400 height=480></td>
-    <td><img src="2013.png" width=200 height=480></td>
-    <td><img src="2018.png" width=200 height=480></td>
+    <td><img src="Subcategories.png" width=300 height=480></td>
+    <td><img src="2013.png" width=200 height=300></td>
+    <td><img src="2018.png" width=200 height=300></td>
   </tr>
  </table>
 
