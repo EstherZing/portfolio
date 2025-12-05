@@ -27,11 +27,6 @@ Applied the Graph Neural Networks (GNN) to generate a molecular representation b
   </tr>
  </table>
 
-![alt-text-1](parityplot.png "Parity Plot")
-![alt-text-2](emn_parity_plot.png "Parity Plot") 
-![alt-text-3](emn_loss_plot.png "Trainin Loss") 
-
-
 
 
 ### What can we learn from 20 years of headlines?
@@ -47,6 +42,17 @@ Data analysis of exploring news headlines data from the guardian news page. Data
 The project is about data analysis and data visualization of Donald Trump's Twitter activity during the first 100 days after his election. Data analysis includes text analysis & wordclouds, sentimental analysis & polarity of Trumps tweets. Language :  **python** & **Typescript**.
 ![Sentiment analysis](sentiment) ![Words Cloud](wordscloud "Words Cloud For tweets") 
 
+
+<table>
+  <tr>
+    <td>sentiment Analysis</td>
+     <td>Polarity Rating</td>
+  </tr>
+  <tr>
+    <td><img src="sentiment" width=270 height=480></td>
+    <td><img src="wordscloud" width=270 height=480></td>
+  </tr>
+ </table>
 
 
 ## Work Experience
