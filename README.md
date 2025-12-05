@@ -14,7 +14,7 @@
 
 Applied the Graph Neural Networks (GNN) to generate a molecular representation by mapping and extracting hidden features (states) present in the data and relating these to the target property. Trained the GNN models for featurization and prediction of the chemical property. Achieved very high precision of model performances for the prediction. The best model performance has R2 results of 0.9980. Language: **Python**
 
-![Parity Plot](parityplot.png "Parity Plot" =20%x) ![Parity Plot](emn_parity_plot.png "Parity Plot" =20%x) ![Training Loss](emn_loss_plot.png "Trainin Loss" =30%x) 
+![Parity Plot](parityplot.png "Parity Plot" =20%) ![Parity Plot](emn_parity_plot.png "Parity Plot" =20%x) ![Training Loss](emn_loss_plot.png "Trainin Loss" =30%x) 
 
 
 ### What can we learn from 20 years of headlines?
