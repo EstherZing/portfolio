@@ -19,10 +19,8 @@ Applied the Graph Neural Networks (GNN) to generate a molecular representation b
 
 Data analysis of exploring news headlines data from the guardian news page. Data uagmentation, data proscessing, data visualizations, NLP language processing, text analysis, network analysis and sentimetal analysis. Programming language : **Python**
 
-
-
 ### Donald Trump and Twitter!
-[Project] (https://observablehq.com/d/dde4f0b3d856ee24)
+[Project](https://observablehq.com/d/dde4f0b3d856ee24/)
 
 The project is about data analysis and data visualization of Donald Trump's Twitter activity during the first 100 days after his election. Data analysis includes text analysis & wordclouds, sentimental analysis & polarity of Trumps tweets. Language :  **python** & **Typescript**.
 
@@ -37,11 +35,10 @@ The project is about data analysis and data visualization of Donald Trump's Twit
 - In-person Interpreting. Legal Document Translation. Clinical & Court Experience. Municipality experience.
   
 
-
 ## Skills and Hobbies
 
 
-**Skills**: Programming, Java, Python, SQL, Copywriting & Content Writing, Team Leadership
+**Skills**: Programming, Java, Python, SQL, Project management, Copywriting & Content Writing.
 
 
 **Hobbies and Interests**: Reading, Walking, Burmese/Chin Culture and Issues
