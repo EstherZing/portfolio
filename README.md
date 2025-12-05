@@ -14,16 +14,23 @@
 
 Applied the Graph Neural Networks (GNN) to generate a molecular representation by mapping and extracting hidden features (states) present in the data and relating these to the target property. Trained the GNN models for featurization and prediction of the chemical property. Achieved very high precision of model performances for the prediction. The best model performance has R2 results of 0.9980. Language: **Python**
 
+![Parity Plot](parityplot.png "Parity Plot") ![Parity Plot](emn_parity_plot.png "Parity Plot") ![Training Loss](emn_loss_plot.png "Trainin Loss") 
+
+
 ### What can we learn from 20 years of headlines?
 [Project]( https://miniphant.github.io/socialgraphs/)
 
 Data analysis of exploring news headlines data from the guardian news page. Data uagmentation, data proscessing, data visualizations, NLP language processing, text analysis, network analysis and sentimetal analysis. Programming language : **Python**
 
+
+
 ### Donald Trump and Twitter!
 [Project](https://observablehq.com/d/dde4f0b3d856ee24/)
 
 The project is about data analysis and data visualization of Donald Trump's Twitter activity during the first 100 days after his election. Data analysis includes text analysis & wordclouds, sentimental analysis & polarity of Trumps tweets. Language :  **python** & **Typescript**.
-![Sentiment analysis](sentiment)
+![Sentiment analysis](sentiment) ![Words Cloud](wordscloud "Words Cloud For tweets") 
+
+
 
 ## Work Experience
 ### Solvita A/S 
