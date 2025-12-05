@@ -3,10 +3,10 @@
 <!-- ADD LINKS? linkedin, email, -->
 
 ## Education
-- Master’s of Science, Human Centered Artificial Intelligence | Denmarks Technical University (_Graduated June 2023_)
-    - Relevant Coursework: Project Management, User Experience Engineering, Computational tools for data science, Introduction to machine learning and data mining, Social Graphs and Interactions, Social Data Analysis and Visualization. Personal data interaction.
-- Bachelor’s of Science, Network Technology and IT | Denmarks Technical University (_Graduated June 2018_)
-    - Relevant Coursework: Data Structures, Software Engineering, Introduction to programming and data processing. Introduction to mathematical statistics, 
+- **Master’s of Science**, Human Centered Artificial Intelligence | Denmarks Technical University (_Graduated June 2023_)
+    - **Relevant Coursework**: Project Management, User Experience Engineering, Computational tools for data science, Introduction to machine learning and data mining, Social Graphs and Interactions, Social Data Analysis and Visualization. Personal data interaction.
+- **Bachelor’s of Science**, Network Technology and IT | Denmarks Technical University (_Graduated June 2018_)
+    - **Relevant Coursework**: Data Structures, Software Engineering, Introduction to programming and data processing. Introduction to mathematical statistics, 
 
 ## Projects
 
@@ -27,8 +27,6 @@ Applied the Graph Neural Networks (GNN) to generate a molecular representation b
   </tr>
  </table>
 
-
-
 ### What can we learn from 20 years of headlines?
 [Project]( https://miniphant.github.io/socialgraphs/)
 
@@ -40,8 +38,6 @@ Data analysis of exploring news headlines data from the guardian news page. Data
 [Project](https://observablehq.com/d/dde4f0b3d856ee24/)
 
 The project is about data analysis and data visualization of Donald Trump's Twitter activity during the first 100 days after his election. Data analysis includes text analysis & wordclouds, sentimental analysis & polarity of Trumps tweets. Language :  **python** & **Typescript**.
-![Sentiment analysis](sentiment) ![Words Cloud](wordscloud "Words Cloud For tweets") 
-
 
 <table>
   <tr>
