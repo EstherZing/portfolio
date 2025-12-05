@@ -23,7 +23,7 @@ Data analysis of exploring news headlines data from the guardian news page. Data
 [Project](https://observablehq.com/d/dde4f0b3d856ee24/)
 
 The project is about data analysis and data visualization of Donald Trump's Twitter activity during the first 100 days after his election. Data analysis includes text analysis & wordclouds, sentimental analysis & polarity of Trumps tweets. Language :  **python** & **Typescript**.
-
+![Sentiment analysis](sentiment)
 
 ## Work Experience
 ### Solvita A/S 
