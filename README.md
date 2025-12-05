@@ -60,7 +60,7 @@ The project is about data analysis and data visualization of Donald Trump's Twit
   <tr>
     <td><img src="sentiment" width=270 height=480></td>
     <td><img src="wordscloud" width=270 height=480></td>
-    <td><img src="Geo Location" width=270 height=480></td>
+    <td><img src="GeoLocation" width=270 height=480></td>
   </tr>
  </table>
 
