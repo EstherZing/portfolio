@@ -32,6 +32,18 @@ Applied the Graph Neural Networks (GNN) to generate a molecular representation b
 
 Data analysis of exploring news headlines data from the guardian news page. Data uagmentation, data proscessing, data visualizations, NLP language processing, text analysis, network analysis and sentimetal analysis. Programming language : **Python**
 
+<table>
+  <tr>
+    <td>News Headline Subcategories</td>
+     <td>Words Cloud for News headlines in 2013 </td>
+     <td>Words Cloud for News headlines in 2018i</td>
+  </tr>
+  <tr>
+    <td><img src="Subcategories.png" width=270 height=480></td>
+    <td><img src="2013.png" width=270 height=480></td>
+    <td><img src="2018.png" width=270 height=480></td>
+  </tr>
+ </table>
 
 
 ### Donald Trump and Twitter!
