@@ -57,7 +57,7 @@ The project is about data analysis and data visualization of Donald Trump's Twit
      <td>Polarity Rating</td>
   </tr>
   <tr>
-    <td><img src="sentiment" width=270 height=480></td>
+    <td><img src="sentiment" width=700 height=480></td>
     <td><img src="wordscloud" width=270 height=480></td>
   </tr>
  </table>
