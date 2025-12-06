@@ -52,7 +52,7 @@ The project is about data analysis and data visualization of Donald Trump's Twit
      <td>Words Cloud for Trumps tweets</td>
   </tr>
   <tr>
-    <td><img src="sentiment" width=700 height=200></td>
+    <td><img src="sentiment" width=400 height=200></td>
     <td><img src="wordscloud" width=500 height=200></td>
   </tr>
  </table>
