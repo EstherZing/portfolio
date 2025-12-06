@@ -16,12 +16,10 @@ Applied the Graph Neural Networks (GNN) to generate a molecular representation b
 
 <table>
   <tr>
-    <td>Parity Plot</td>
      <td>Parity plot</td>
      <td>Training Loss</td>
   </tr>
   <tr>
-    <td><img src="parityplot.png" width=270 height=480></td>
     <td><img src="emn_parity_plot.png" width=270 height=480></td>
     <td><img src="emn_loss_plot.png" width=270 height=480></td>
   </tr>
@@ -34,12 +32,10 @@ Data analysis of exploring news headlines data from the guardian news page. Data
 
 <table>
   <tr>
-    <td>News Headline Subcategories</td>
      <td>Words Cloud for News headlines in 2013 </td>
      <td>Words Cloud for News headlines in 2018i</td>
   </tr>
   <tr>
-    <td><img src="Subcategories.png" width=300 height=480></td>
     <td><img src="2013.png" width=270 height=480></td>
     <td><img src="2018.png" width=270 height=480></td>
   </tr>
@@ -62,15 +58,15 @@ The project is about data analysis and data visualization of Donald Trump's Twit
   </tr>
  </table>
 
-
 ## Work Experience
 ### Solvita A/S 
-***Educational Conssultant*** (_December 2024 – Present_)
+***Educational Consultant*** (_December 2024 – Present_)
 - Provide administrative works. Provide guidance. Develop plans. 
 
 ### Tolkdanmark ApS
-***Freelance Interpretor*** (_Jan 2022 – Present_)
+***Freelance Interpreter/Translator*** (_Jan 2022 – Present_)
 - In-person Interpreting. Legal Document Translation. Clinical & Court Experience. Municipality experience.
+- Language: Dannish & Burmese.
   
 
 ## Skills and Hobbies
