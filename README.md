@@ -17,12 +17,12 @@ Applied the Graph Neural Networks (GNN) to generate a molecular representation b
 <table>
   <tr>
     <td>Parity Plot</td>
-     <td>Parity plot</td>
+     #<td>Parity plot</td>
      <td>Training Loss</td>
   </tr>
   <tr>
     <td><img src="parityplot.png" width=270 height=480></td>
-    <td><img src="emn_parity_plot.png" width=270 height=480></td>
+    #<td><img src="emn_parity_plot.png" width=270 height=480></td>
     <td><img src="emn_loss_plot.png" width=270 height=480></td>
   </tr>
  </table>
@@ -40,8 +40,8 @@ Data analysis of exploring news headlines data from the guardian news page. Data
   </tr>
   <tr>
     <td><img src="Subcategories.png" width=300 height=480></td>
-    <td><img src="2013.png" width=200 height=300></td>
-    <td><img src="2018.png" width=200 height=300></td>
+    <td><img src="2013.png" width=270 height=480></td>
+    <td><img src="2018.png" width=270 height=480></td>
   </tr>
  </table>
 
