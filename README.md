@@ -6,7 +6,7 @@
 - **Master’s of Science**, Human Centered Artificial Intelligence | Denmarks Technical University (_Graduated June 2023_)
     - **Relevant Coursework**: Project Management, User Experience Engineering, Computational tools for data science, Introduction to machine learning and data mining, Social Graphs and Interactions, Social Data Analysis and Visualization. Personal data interaction.
 - **Bachelor’s of Science**, Network Technology and IT | Denmarks Technical University (_Graduated June 2018_)
-    - **Relevant Coursework**: Data Structures, Software Engineering, Introduction to programming and data processing. Introduction to mathematical statistics, 
+    - **Relevant Coursework**: Data Structures, Software Engineering, Introduction to programming and data processing. Introduction to mathematical statistics. 
 
 ## Projects
 
@@ -54,7 +54,7 @@ The project is about data analysis and data visualization of Donald Trump's Twit
 <table>
   <tr>
     <td>sentiment Analysis</td>
-     <td>Polarity Rating</td>
+     <td>Words Cloud for Trumps tweets</td>
   </tr>
   <tr>
     <td><img src="sentiment" width=700 height=480></td>
@@ -76,10 +76,10 @@ The project is about data analysis and data visualization of Donald Trump's Twit
 ## Skills and Hobbies
 
 
-**Skills**: Programming, Java, Python, SQL, Project management, Copywriting & Content Writing.
+**Skills**: Programming, Java, Python, SQL, Project management, UI/UX Design, Copywriting & Content Writing.
 
 
-**Hobbies and Interests**: Reading, Walking, Burmese/Chin Culture and Issues
+**Hobbies and Interests**: Reading, Walking, Graphic Design, Burmese/Chin Culture and Issues
 
 
 
