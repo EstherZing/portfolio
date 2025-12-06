@@ -19,8 +19,8 @@ Applied the Graph Neural Networks (GNN) to generate a molecular representation b
      <td>Training Loss</td>
   </tr>
   <tr>
-    <td><img src="emn_parity_plot.png" width=270 height=200></td>
-    <td><img src="emn_loss_plot.png" width=270 height=200></td>
+    <td><img src="emn_parity_plot.png" width=500 height=200></td>
+    <td><img src="emn_loss_plot.png" width=500 height=200></td>
   </tr>
  </table>
 
