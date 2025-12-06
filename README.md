@@ -35,8 +35,8 @@ Data analysis of exploring news headlines data from the guardian news page. Data
      <td>Words Cloud for News headlines in 2018i</td>
   </tr>
   <tr>
-    <td><img src="2013.png" width=500 height=300></td>
-    <td><img src="2018.png" width=500 height=300></td>
+    <td><img src="2013.png" width=500 height=200></td>
+    <td><img src="2018.png" width=500 height=200></td>
   </tr>
  </table>
 
@@ -52,8 +52,8 @@ The project is about data analysis and data visualization of Donald Trump's Twit
      <td>Words Cloud for Trumps tweets</td>
   </tr>
   <tr>
-    <td><img src="sentiment" width=700 height=480></td>
-    <td><img src="wordscloud" width=500 height=480></td>
+    <td><img src="sentiment" width=700 height=200></td>
+    <td><img src="wordscloud" width=500 height=200></td>
   </tr>
  </table>
 
