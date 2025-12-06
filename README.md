@@ -17,12 +17,12 @@ Applied the Graph Neural Networks (GNN) to generate a molecular representation b
 <table>
   <tr>
     <td>Parity Plot</td>
-     #<td>Parity plot</td>
+     <td>Parity plot</td>
      <td>Training Loss</td>
   </tr>
   <tr>
     <td><img src="parityplot.png" width=270 height=480></td>
-    #<td><img src="emn_parity_plot.png" width=270 height=480></td>
+    <td><img src="emn_parity_plot.png" width=270 height=480></td>
     <td><img src="emn_loss_plot.png" width=270 height=480></td>
   </tr>
  </table>
@@ -55,12 +55,10 @@ The project is about data analysis and data visualization of Donald Trump's Twit
   <tr>
     <td>sentiment Analysis</td>
      <td>Polarity Rating</td>
-     <td>Geo Location</td>
   </tr>
   <tr>
     <td><img src="sentiment" width=270 height=480></td>
     <td><img src="wordscloud" width=270 height=480></td>
-    <td><img src="GeoLocation" width=270 height=480></td>
   </tr>
  </table>
 
