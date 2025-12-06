@@ -1,4 +1,3 @@
-# Portfolio
 
 <!-- ADD LINKS? linkedin, email, -->
 
@@ -66,7 +65,7 @@ The project is about data analysis and data visualization of Donald Trump's Twit
 ### Tolkdanmark ApS
 ***Freelance Interpreter/Translator*** (_Jan 2022 – Present_)
 - In-person Interpreting. Legal Document Translation. Clinical & Court Experience. Municipality experience.
-- Language: Dannish & Burmese.
+- Language: Danish & Burmese.
   
 
 ## Skills and Hobbies
